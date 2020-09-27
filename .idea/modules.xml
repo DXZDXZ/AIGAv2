@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AIGAv2.iml" filepath="$PROJECT_DIR$/.idea/AIGAv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GymEnv/.idea/GymEnv.iml" filepath="$PROJECT_DIR$/../GymEnv/.idea/GymEnv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gym_ga/.idea/gym_ga.iml" filepath="$PROJECT_DIR$/../gym_ga/.idea/gym_ga.iml" />
+    </modules>
+  </component>
+</project>

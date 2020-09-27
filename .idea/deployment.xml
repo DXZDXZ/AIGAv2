@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dxz@192.168.0.25:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="dxz@192.168.0.25:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/projects/AIGAv2" local="$PROJECT_DIR$" web="" />
+            <mapping deploy="/.virtualenvs/B/gym/gym" local="$PROJECT_DIR$/../GymEnv" />
+            <mapping deploy="/.virtualenvs/B/gym_ga" local="$PROJECT_DIR$/../gym_ga" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
